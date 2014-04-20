@@ -1,0 +1,12 @@
+
+<recipe-title> Raisin and Bread Stuffed Pork Chops </recipe-title> <recipe-content> http://www.marthastewart.com/313396/raisin-and-bread-stuffed-pork-chops?center=0&gallery=275055&slide=284024 </recipe-content>
+<recipe-title> Sweet and Sour Pork </recipe-title> <recipe-content> http://www.foodnetwork.com/recipes/food-network-kitchens/sweet-and-sour-pork-recipe/index.html </recipe-content>
+<recipe-title> Balsamic Pork Roast </recipe-title> <recipe-content>  http://www.foodnetwork.com/recipes/rachael-ray/balsamic-roast-pork-tenderloins-recipe/index.html </recipe-content>
+<recipe-title> Asian Pork with Noodles </recipe-title> <recipe-content>  http://www.foodnetwork.com/recipes/food-network-kitchens/asian-pork-with-noodles-recipe/index.html </recipe-content>
+<recipe-title> Japanese Style Crispy Pork </recipe-title> <recipe-content>  http://www.foodnetwork.com/recipes/food-network-kitchens/japanese-style-crispy-pork-recipe/index.html </recipe-content>
+<recipe-title> Pork and Fennel Ragout </recipe-title> <recipe-content>  http://www.foodnetwork.com/recipes/food-network-kitchens/pork-and-fennel-ragout-recipe/index.html </recipe-content>
+<recipe-title> Thyme Parmesan Crusted Pork </recipe-title> <recipe-content> Dredge pork chop in flour. Dip in egg wash. Mix breadcrumbs, grated parmesan, and thyme. Dip pork in breadcrumb mixture. Heat oil in pan over medium heat and brown each side. Finish in oven in greased Pyrex pan. </recipe-content>
+<recipe-title> Pork and Apple Salad </recipe-title> <recipe-content>  Slice cooked pork and mix with greens, apples, raisins, and garbanzos. Toss w/ balsamic vinaigrette. </recipe-content>
+<recipe-title> Pork Chops w/ Apples and Garlic Mash </recipe-title> <recipe-content> http://www.foodnetwork.com/recipes/food-network-kitchens/pork-chops-with-apples-and-garlic-smashed-potatoes-recipe/index.html </recipe-content>
+<recipe-title> Pork Cutlet Sandwich </recipe-title> <recipe-content> http://food52.com/recipes/5095_pork_cutlet_sandwiches_with_basil_aiolis </recipe-content>
+<recipe-title> Honey Balsamic Glazed Pork Chops </recipe-title> <recipe-content> http://www.saveur.com/article/Recipes/Sweet-and-Sour-Glazed-Pork-Chops-Maiale-in-Agrodolce?cmpid=sh080812 </recipe-content>

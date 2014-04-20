@@ -1,0 +1,22 @@
+<category id="chicken">
+    <recipe>
+        <title> Chicken Zucchini Alfredo  </title> 
+        <content> http://www.foodnetwork.com/recipes/ellie-krieger/chicken-zucchini-alfredo-recipe/index.html  </content> 
+    </recipe>
+    <recipe>
+        <title> Marinated Chicken  </title> 
+        <content> http://www.foodnetwork.com/recipes/food-network-kitchens/marinated-chicken-breasts-recipe/index.html  </content> 
+    </recipe>
+    <recipe>
+        <title> Chicken Cacciatore  </title> 
+        <content> http://www.foodnetwork.com/recipes/ellie-krieger/chicken-cacciatore-recipe/index.html  </content> 
+    </recipe>
+    <recipe>
+        <title> Orange Chicken  </title> 
+        <content> http://shine.yahoo.com/shine-food/shine-supper-club-skinny-orange-chicken-151000516.html;_ylt=Ajqvyvzn54vlX.K0JMMXkQdfbqU5;_ylu=X3oDMTFsOWx1cjR1BG1pdANCbG9nUG9zdEJvZHkEcG9zAzI5BHNlYwNNZWRpYUJsb2dCb2R5VGVtcEFzc2VtYmx5;_ylg=X3oDMTJudTU0YW12BGludGwDdXMEbGFuZwNlbi11cwRwc3RhaWQDNDI0YWMzYjktMjZkNy0zODM5LWJiNjgtMDExZmYwZTAxMTM1BHBzdGNhdANmb29kBHB0A3N0b3J5cGFnZQ--;_ylv=3  </content> 
+    </recipe>
+    <recipe>
+        <title> Chicken with Rice and Peas  </title> 
+        <content> http://shine.yahoo.com/shine-food/mark-bittman-chicken-rice-162600165.html;_ylt=AvzxkW1zFSEIh7eyJVsRH7XkgKU5;_ylu=X3oDMTFwOXRlbW0xBG1pdANSZWNpcGUgV2Vla2x5IEluZGV4IG1vZHVsZQRwb3MDOQRzZWMDTWVkaWFSZWNpcGVJbmRleA--;_ylg=X3oDMTJiZmg2MnBwBGludGwDdXMEbGFuZwNlbi11cwRwc3RhaWQDBHBzdGNhdANmb29kfHdoYXQtMzktc2ZvcmRpbm5lcgRwdANzZWN0aW9ucwR0ZXN0Aw--;_ylv=3  </content> 
+    </recipe>
+</chicken>

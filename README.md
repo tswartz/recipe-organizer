@@ -8,3 +8,7 @@ I wanted to return later when I knew more about programming and improve the UI, 
 Behold its crappy Java Swing UI glory!!!!
 
 ![alt tag](screenshot.png)
+
+I also made it into a Mac desktop application. Look! It even has a little icon my dock!
+
+![alt tag](icon-screenshot.png)
